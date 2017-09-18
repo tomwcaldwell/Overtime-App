@@ -16,3 +16,7 @@
 
 ## UI:
 - Bootstrap -> formatting
+
+
+## TODOs:
+- Refactor user association integration test in post_spec
