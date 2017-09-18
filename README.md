@@ -4,8 +4,8 @@
 
 ## Models:
 - Post -> data:date rationale:text
-x User -> Devise
-- AdminUser -> STI (Single Table Inheritance)
+- User -> Devise X
+- AdminUser -> STI (Single Table Inheritance) X
 
 ## Features:
 - Approval Workflow
